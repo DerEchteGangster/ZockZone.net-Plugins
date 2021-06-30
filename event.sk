@@ -1,0 +1,8 @@
+# Event Befehl
+command /event:
+	trigger:
+		send "-------------------------------------------------------"
+		send "&e ZockZone Event System: &4 Wenn du an Events Teil nehmen"
+		send "&4möchtest komme in den ZockZone.net Teamspeak Support"
+        send "-------------------------------------------------------"
+
